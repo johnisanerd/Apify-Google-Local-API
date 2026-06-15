@@ -285,4 +285,10 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Local API to power local SEO, lead generation, and market research with reliable, structured results.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store.
+
+- [Export Google Local Results to CSV](https://apify.com/johnvc/google-local-api/examples/export-google-local-results-to-csv?fpr=9n7kx3)
+
 Last Updated: 2026.05.30
