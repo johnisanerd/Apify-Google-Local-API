@@ -279,6 +279,14 @@ ChatGPT connects to the Apify MCP server through Developer mode (available on Ch
 
 More help: https://docs.apify.com/platform/integrations/mcp
 
+## Use it from n8n
+
+There is a free, ready-made n8n template built on this API: [Track Google local pack rankings in Google Sheets](https://n8n.io/workflows/17523-track-google-local-pack-rankings-in-google-sheets-with-apify/). Put your keywords, city, and business name in one node, and every week it appends the full local pack for each keyword to a sheet: position, business, category, rating, review count, and address, with your own listing flagged YES. It uses the official Apify node, so it works on n8n Cloud with a live preview.
+
+Because it logs the whole pack rather than only your own rank, the sheet doubles as a competitor watch: you can see who moved above you and what their review count looks like. No rank tracker subscription and no SERP API key.
+
+Self-hosting n8n? There is also a dedicated community node: [`n8n-nodes-google-local-api`](https://www.npmjs.com/package/n8n-nodes-google-local-api) on npm.
+
 ---
 
 [**Made with care**](https://apify.com/johnvc?fpr=9n7kx3)
