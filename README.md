@@ -299,4 +299,4 @@ Ready-to-run examples on the Apify Store.
 
 - [Export Google Local Results to CSV](https://apify.com/johnvc/google-local-api/examples/export-google-local-results-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.08.01
+Last Updated: 2026.08.02
